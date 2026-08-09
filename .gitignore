@@ -1,1 +1,14 @@
 .DS_Store
+
+.antlr/
+
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+.env
+.env.*
+!.env.example
